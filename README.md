@@ -26,8 +26,7 @@
   
    👋 Hi, I’m @Maxwell-ihiaso
  👀 I’m interested in web/ software development.
-🌱 I’m currently learning Optimization for web Development.
- 💞️ I’m looking to collaborate on Node, Express, React, Next, TypeScript, SQL and MongoDB projects.
+ 💞️ I’m looking to collaborate on Node, Express, Java, Kotlin, Go Lang,  React, Next, TypeScript, SQL and MongoDB projects.
 📫 How to reach me: ihiasomaxwellchukwuebuka@gmail.com
 </div>
 
